@@ -1,0 +1,9 @@
+
+ .item{
+  min-width: 120px;
+  height: 80px;
+  background-color: rgb(31, 30, 30);
+  margin: 2px;
+  border-radius: 5px;
+
+ }
